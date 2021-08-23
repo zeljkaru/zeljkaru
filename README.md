@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zeljkaru
-- 🌱 I’m currently learning to code
+- 🌱 I’m currently learning to code with SheCodes.io
 - 💞️ I’m looking to find a mentor and a community to develop my beginner coding skills
 
 <!---
